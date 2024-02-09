@@ -1,0 +1,16 @@
+.follow {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.anchor .ant-anchor {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.anchor .ant-anchor .ant-anchor-link-title {
+    color: rgb(255, 255, 255);
+    padding: 0 20px;
+}

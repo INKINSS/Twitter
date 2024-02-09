@@ -1,8 +1,11 @@
 import './App.css'
+import Header from './assets/layouts/header/Header'
 
 function App() {
   return (
-    <h1>buenos dias</h1>
+    <main>
+      <Header />
+    </main>
   )
 }
 
