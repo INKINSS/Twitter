@@ -1,0 +1,40 @@
+.interactivePost {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 17px;
+    padding: 0 5px;
+}
+
+.groupIcons {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.groupIcons div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.iconInteractivePost {
+    color: rgb(97, 97, 97);
+    width: 17px;
+    height: 17px;
+}
+
+.number {
+    color: rgb(97, 97, 97);
+
+}
+
+.saveAndShare {
+    width: 20%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 9px;
+}

@@ -10,6 +10,11 @@
     margin: 0 15px;
 }
 
+.post {
+    border-top: 1px solid rgb(97, 97, 97);
+    padding: 5px 0;
+}
+
 .imgProfilePost {
     width: 100%;
     border-radius: 50%;
@@ -28,7 +33,7 @@
 .userName {
     color: rgb(255, 255, 255);
     font-weight: 600;
-    font-size: .9rem;
+    font-size: .95rem;
 }
 
 .pointDivider {
@@ -38,7 +43,7 @@
 .userNick, .publicationTime {
     color: rgb(117, 117, 117);
     font-weight: 400;
-    font-size: .8rem;
+    font-size: .9rem;
 }
 
 .userNick {
