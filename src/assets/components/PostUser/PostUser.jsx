@@ -27,7 +27,7 @@ const PostUser = () => {
                             <figure className='figurePostUser'>
                                 <img className='imgPost' src={item.imageUrl} alt="imagePost" />
                             </figure>
-                    <InteractivePost />
+                            <InteractivePost />
                         </section>
                     </div>
                 </div>
