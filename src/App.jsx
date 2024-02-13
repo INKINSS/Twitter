@@ -10,7 +10,7 @@ function App() {
     <main>
       <Header />
       <MenuMobile />
-      <FloatButton icon= { <FaFeatherPointed /> } type='primary' style={{ right: '24px', bottom: '75px', width: '60px', height: '60px' }} />
+      <FloatButton icon= { <FaFeatherPointed style={{ width: '20px', height:'20px' }} /> } type='primary' style={{ right: '24px', bottom: '75px', width: '60px', height: '60px' }} />
     </main>
   )
 }
