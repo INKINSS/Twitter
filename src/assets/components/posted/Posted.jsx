@@ -12,7 +12,7 @@ const Posted = () => {
     return (
         <article>
             {data.map((item, index) => (
-                <article>
+                <article key={index}>
                     <section className='flex gap-5 pb-8 pt-8 border-b border-gray-800' key={index}>
                         <figure className='w-16 h-16'>
                             <img className='w-full h-full rounded-full' src={item.UrlImgUser} alt="imgUser" />
