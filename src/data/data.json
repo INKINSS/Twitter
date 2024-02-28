@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Clara Morales",
+        "nick": "@Clara17754Mo",
+        "infoPost": {
+            "timepost": "14min",
+            "comment": "Hace 3 años estaba viajando a este preciso lugar, hoy, vuelvo más entuciasmada que nunca.",
+            "urlPost": "/src/assets/img/post/PostClara.webp",
+            "numberComments": 64,
+            "numberShares": 12,
+            "numberLikes": 89,
+            "numberView": 943
+        }
+    },
+    {
+        "name": "Anderson Yuja",
+        "nick": "@Ander_Tl13",
+        "infoPost": {
+            "timepost": "7h",
+            "comment": "Toda una aventura!, viajar en tranvía por las ciudades es algo que tienes que experimentar tu mismo, una gran semana aquí en Paises Bajos.",
+            "urlPost": "/src/assets/img/post/PostAnderson.webp",
+            "numberComments": 296,
+            "numberShares": 75,
+            "numberLikes": 1043,
+            "numberView": 874
+        }
+    },
+    {
+        "name": "Carlos Espinoza",
+        "nick": "@CarlosEsp_2000",
+        "infoPost": {
+            "timepost": "15h",
+            "comment": "Viaje de retiro en vacaciones",
+            "urlPost": "/src/assets/img/post/PostCarlos.webp",
+            "numberComments": 33,
+            "numberShares": 11,
+            "numberLikes": 134,
+            "numberView": 421
+        }
+    },
+    {
+        "name": "Dayana Lopez",
+        "nick": "@Day_Lopez",
+        "infoPost": {
+            "timepost": "13min",
+            "comment": "Que emocion!, no solo visitando España sino tambien con nuevo auto!, este año ha sido increible y aún falta mucho más por venir.",
+            "urlPost": "/src/assets/img/post/PostDayana.webp",
+            "numberComments": 176,
+            "numberShares": 103,
+            "numberLikes": 784,
+            "numberView": 2045
+        }
+    },
+    {
+        "name": "Elisse Reyes",
+        "nick": "@EliRey_es",
+        "infoPost": {
+            "timepost": "37min",
+            "comment": "La vienvenida que he recibido en Japon es increible, si hay un país que quieras visitar debe de ser este sin duda alguna, tantas experiencias y gente amable a todo dar, espero volver el próximo año.",
+            "urlPost": "/src/assets/img/post/PostElisse.webp",
+            "numberComments": 203,
+            "numberShares": 165,
+            "numberLikes": 196,
+            "numberView": 23
+        }
+    },
+    {
+        "name": "Lia Rodrigues",
+        "nick": "@LaLiaR",
+        "infoPost": {
+            "timepost": "2h",
+            "comment": "¿Sabías que el café ayuda al buen humor de las personas?, contrario a los rumores que dicen que altera el ciclo del sueño, el café, ayuda a mejorar el humor en un 40% de las persona que toman café de manera regular. que esperas a tomar una taza de café!!",
+            "urlPost": "/src/assets/img/post/PostLia.webp",
+            "numberComments": 350,
+            "numberShares": 98,
+            "numberLikes": 842,
+            "numberView": 1679
+        }
+    },
+    {
+        "name": "Maria Argueta",
+        "nick": "@Argue_Maria",
+        "infoPost": {
+            "timepost": "2d",
+            "comment": "Nueva sesión de fotografía para mi amiga, que lindo es poder trabajar en algo que amas, ningún día será trabajo si amas lo que haces.",
+            "urlPost": "/src/assets/img/post/PostMaria.webp",
+            "numberComments": 103,
+            "numberShares": 212,
+            "numberLikes": 119,
+            "numberView": 97
+        }
+    },
+    {
+        "name": "Mario Felipe Solis",
+        "nick": "@MFsolis",
+        "infoPost": {
+            "timepost": "5d",
+            "comment": "Que emoción es ir de regreso a mi país y aún mas poder viajar junto con mi familia, una semana inolvidable en Camerún, todos los recuerdos y buenos momentos los llevo conmigo.",
+            "urlPost": "/src/assets/img/post/PostElisse.webp",
+            "numberComments": 39,
+            "numberShares": 459,
+            "numberLikes": 196,
+            "numberView": 209
+        }
+    },
+    {
+        "name": "Elisse Reyes",
+        "nick": "@EliRey_es",
+        "infoPost": {
+            "timepost": "37min",
+            "comment": "La vienvenida que he recibido en Japon es increible, si hay un país que quieras visitar debe de ser este sin duda alguna, tantas experiencias y gente amable a todo dar, espero volver el próximo año.",
+            "urlPost": "/src/assets/img/post/PostElisse.webp",
+            "numberComments": 203,
+            "numberShares": 165,
+            "numberLikes": 196,
+            "numberView": 23
+        }
+    },
+    {
+        "name": "Melisa de León",
+        "nick": "@MelDeLeon",
+        "infoPost": {
+            "timepost": "12min",
+            "comment": "Primera vez que voy a un río y me encuentro con esto! tortugas!, no hay duda que la naturaleza logra sorprendernos de maneras asombrosas en cada momento.",
+            "urlPost": "/src/assets/img/post/PostMelissa.webp",
+            "numberComments": 19,
+            "numberShares": 43,
+            "numberLikes": 32,
+            "numberView": 67
+        }
+    },
+    {
+        "name": "Mike Toronto",
+        "nick": "@ElMikeT",
+        "infoPost": {
+            "timepost": "1h",
+            "comment": "Una caminata por la playa de San Felipe ayuda a relajarte y concentrarte que no solo estamos para convivir con las demás personas, sino también para pasar tiempo con nosotros mismo, recordar quienes somos y qué queremos ser en esta corta vida.",
+            "urlPost": "/src/assets/img/post/PostMike.webp",
+            "numberComments": 171,
+            "numberShares": 13,
+            "numberLikes": 742,
+            "numberView": 1045
+        }
+    }
+]
