@@ -1,5 +1,6 @@
 import React from 'react'
 import { Tabs, TabList, TabPanels, Tab, TabPanel } from '@chakra-ui/react'
+import Posted from '../posted/Posted'
 
 const HeaderFollow = () => {
     return (
@@ -11,7 +12,7 @@ const HeaderFollow = () => {
                 </TabList>
                 <TabPanels>
                     <TabPanel>
-                        <p>one!</p>
+                        <Posted />
                     </TabPanel>
                     <TabPanel>
                         <p>two!</p>
