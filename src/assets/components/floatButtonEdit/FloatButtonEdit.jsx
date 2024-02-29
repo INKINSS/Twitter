@@ -22,7 +22,7 @@ const FloatButtonEdit = () => {
 
     return (
         <figure  className={`bg-blue-500 rounded-full flex items-center justify-center fixed bottom-24 right-10 w-16 h-16 text-customWhite transition-all duration-500 ${
-            visible ? 'transform translate-y-0 opacity-100' : 'transform translate-y-full opacity-0'
+            visible ? 'transform translate-y-0 opacity-100 scale-100' : 'transform scale-0 translate-y-full opacity-0'
         }`}>
             <FaFeatherAlt size={'1.5em'} color='white' />
         </figure>
