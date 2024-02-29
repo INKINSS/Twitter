@@ -1,5 +1,5 @@
 import React from 'react';
-import { Drawer, DrawerBody, DrawerFooter, DrawerHeader, DrawerOverlay, DrawerContent, DrawerCloseButton, useDisclosure, Button } from '@chakra-ui/react';
+import { Drawer, DrawerBody, DrawerFooter, DrawerHeader, DrawerOverlay, DrawerContent, DrawerCloseButton, useDisclosure, Button, useMediaQuery } from '@chakra-ui/react';
 import { BsTwitterX } from "react-icons/bs";
 import { TbSettings } from "react-icons/tb";
 import SideBarMenu from '../sideBarMenu/SideBarMenu';
@@ -7,9 +7,10 @@ import SideBarMenu from '../sideBarMenu/SideBarMenu';
 const HeaderProfile = () => {
     const [size, setSize] = React.useState('');
     const { isOpen, onOpen, onClose } = useDisclosure();
+    const [isLargerThanIpad] = useMediaQuery("(min-width: 768px)");
 
     const handleClick = () => {
-        setSize('260px'); // Cambia el tamaño a 300px
+        setSize(isLargerThanIpad ? '320px' : '260px');
         onOpen();
     };
 
