@@ -14,15 +14,15 @@ const Posted = () => {
         <article>
             {data.map((item, index) => (
                 <article key={index}>
-                    <section className='flex gap-5 pb-8 pt-8 border-b border-gray-800' key={index}>
-                        <figure className='w-16 h-16'>
+                    <section className='flex justify-around pb-8 pt-8 border-b border-gray-800' key={index}>
+                        <figure className='w-10 h-10'>
                             <img className='w-full h-full rounded-full' src={item.UrlImgUser} alt="imgUser" />
                         </figure>
-                        <div className='sm:w-4/5 lg:w-3/5'>
+                        <div className='w-4/5 lg:w-3/5'>
                             <header className='flex items-center gap-1 relative'>
-                                <h3 className='font-bold text-xl text-customWhite'>{item.name}</h3>
-                                <span className='text-gray-400 text-xl font-normal'>{item.nick}</span>
-                                <span className='text-gray-400 pl-1 text-xl'>{item.infoPost.timepost}</span>
+                                <h3 className='font-bold text-sm text-customWhite'>{item.name}</h3>
+                                <span className='text-gray-400 text-sm font-normal'>{item.nick}</span>
+                                <span className='text-gray-400 pl-1 text-sm'>{item.infoPost.timepost}</span>
                                 <VscKebabVertical className='text-gray-400 absolute right-0' />
                             </header>
                             <p className='text-customWhite text-xl pb-5 pt-2'>{item.infoPost.comment}</p>
@@ -30,17 +30,17 @@ const Posted = () => {
                                 <img className='w-full h-full rounded-xl' src={item.infoPost.urlPost} alt="imgPost" />
                             </figure>
                             <footer className='pt-2'>
-                                <section className='flex w-full justify-between px-5 pt-3 text-gray-400'>
+                                <section className='flex w-full justify-between pt-3 text-gray-400'>
                                     <div className='flex items-center gap-1'>
-                                        <TbMessageCircle size={'1.5em'} />
+                                        <TbMessageCircle size={'1em'} />
                                         <span>{item.infoPost.numberComments}</span>
                                     </div>
                                     <div className='flex items-center gap-1'>
-                                        <AiOutlineRetweet size={'1.5em'} />
+                                        <AiOutlineRetweet size={'1em'} />
                                         <span>{item.infoPost.numberShares}</span>
                                     </div>
                                     <div className='flex items-center gap-1'>
-                                        <FaRegHeart size={'1.5em'} />
+                                        <FaRegHeart size={'1em'} />
                                         <span>{item.infoPost.numberLikes}</span>
                                     </div>
                                     <div className='flex items-center gap-1'>
@@ -48,10 +48,10 @@ const Posted = () => {
                                         <span>{item.infoPost.numberView}</span>
                                     </div>
                                     <div>
-                                        <FaRegBookmark size={'1.5em'} />
+                                        <FaRegBookmark size={'1em'} />
                                     </div>
                                     <div>
-                                        <IoShareSocialOutline size={'1.5em'} />
+                                        <IoShareSocialOutline size={'1em'} />
                                     </div>
                                 </section>
                             </footer>
