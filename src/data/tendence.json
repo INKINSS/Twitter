@@ -1,0 +1,42 @@
+[
+    {
+        "type" : "Música",
+        "user" : "Karol G",
+        "postNumber":  9349 
+    },
+    {
+        "type" : "Fauna",
+        "user" : "National Geographi",
+        "postNumber":  10349 
+    },
+    {
+        "type" : "Tecnología",
+        "user" : "Samsung",
+        "postNumber":  8532 
+    },
+    {
+        "type" : "Tecnología",
+        "user" : "Apple",
+        "postNumber":  39235 
+    },
+    {
+        "type" : "Musica",
+        "user" : "David Guetta",
+        "postNumber":  1469
+    },
+    {
+        "type" : "Deporte",
+        "user" : "Barcelona",
+        "postNumber":  9425 
+    },
+    {
+        "type" : "Deporte",
+        "user" : "NFL",
+        "postNumber":  1954 
+    },
+    {
+        "type" : "Desarrollo Web",
+        "user" : "FrontEnd",
+        "postNumber":  1956 
+    }
+]
