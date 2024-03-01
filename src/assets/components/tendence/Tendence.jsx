@@ -15,12 +15,12 @@ const Tendence = () => {
                         <Stack divider={<StackDivider />} spacing='2'>
                             <Box>
                                 <Heading display={'flex'} justifyContent={'space-between'} fontSize={'.9em'} fontWeight={'200'} color={'#ccc'} size='xs'>
-                                    <p>{ item.type }  Tendencia</p>
+                                    <span>{ item.type }  Tendencia</span>
                                     <GoKebabHorizontal />
                                 </Heading>
                                 <Text fontSize='sm'>
                                     <h2 className='text-customWhite font-bold text-lg'>{ item.user }</h2>
-                                    <p className='text-customWhite'>{ item.postNumber } Post</p>
+                                    <span className='text-customWhite'>{ item.postNumber } Post</span>
                                 </Text>
                             </Box>
                         </Stack>
