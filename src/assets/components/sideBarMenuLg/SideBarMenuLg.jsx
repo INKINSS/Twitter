@@ -51,7 +51,7 @@ const SideBarMenuLg = () => {
     ];
 
     return (
-        <section className='hidden lg:w-[23%] lg:block lg:border-r-2 border-gray-800 bg-black px-5 h-screen sticky top-0'>
+        <section className='hidden lg:w-[50%] lg:block lg:border-r-2 border-gray-800 bg-black px-5 h-screen sticky top-0'>
             <div className="flex flex-col h-full">
                 <div className='pb-2'>
                     {optionMenu.map((item, index) => (
@@ -63,14 +63,15 @@ const SideBarMenuLg = () => {
                 </div>
                 <div>
                     <button className='w-[90%] rounded-full bg-blue-500 text-customWhite text-base py-2 px-16 font-medium'>Postear</button>
-                    <div className='flex justify-between items-center w-full pt-5 px-5'>
-                        <figure className='w-8 h-8'>
+                    <div className='flex justify-evenly items-center w-full pt-5 px-5 relative'>
+                        <figure className='w-12 h-12'>
                             <img className='w-full h-full rounded-full' src="/src/assets/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
                         </figure>
                         <div className='flex-col'>
-                            <h2 className='text-customWhite font-medium text-sm pt-3'>Elizabeth Cheverria</h2>
-                            <span className='text-gray-500 text-sm'>@ElCheve_ria</span>
+                            <h2 className='text-customWhite font-medium text-base pt-3'>Samuel Perez</h2>
+                            <span className='text-gray-500 text-sm'>@Zs198_</span>
                         </div>
+                        <GoKebabHorizontal className='absolute right-0' color='white' size={'1em'} />
 
                     </div>
                 </div>

@@ -6,7 +6,7 @@ import { ImParagraphLeft } from "react-icons/im";
 import { FaRegBookmark } from "react-icons/fa";
 import { IoShareSocialOutline } from "react-icons/io5";
 import { VscKebabVertical } from "react-icons/vsc";
-import data from '../../../data/data.json'
+import data from '../../../data/dataForYou.json'
 import Publication from '../publication/Publication';
 
 const Posted = () => {

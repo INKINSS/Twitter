@@ -26,7 +26,7 @@ const Publication = () => {
                             <TbCalendarStats className='text-blue-500' />
                             <HiOutlineLocationMarker className='text-blue-500' />
                         </div>
-                        <button className='bg-blue-500 text-customWhite rounded-full px-7 py-2'>Postear</button>
+                        <button className='bg-blue-500 text-customWhite font-medium rounded-full px-7 py-2'>Postear</button>
                     </div>
                 </div>
             </div>

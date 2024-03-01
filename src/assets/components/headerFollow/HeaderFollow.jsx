@@ -15,7 +15,7 @@ const HeaderFollow = () => {
                         <Posted />
                     </TabPanel>
                     <TabPanel>
-                        <p>two!</p>
+                        <h1>continuará...</h1>
                     </TabPanel>
                 </TabPanels>
             </Tabs>
