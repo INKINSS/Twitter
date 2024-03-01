@@ -7,7 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        customWhite: '#ffff'
+        customWhite: '#ffff',
+        customWiteLight: '#ccc',
+        grayCustom: '#282828'
       },
       screens: {
         'ssm' : '.5em'

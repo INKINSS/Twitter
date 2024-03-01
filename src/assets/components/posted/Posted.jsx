@@ -12,11 +12,11 @@ import Publication from '../publication/Publication';
 const Posted = () => {
 
     return (
-        <article className=' lg:w-7/12 lg:px-2 bg-black'>
+        <article className=' lg:w-full md:w-[100%] lg:px-2 bg-black'>
             <Publication />
             {data.map((item, index) => (
                 <article key={index}>
-                    <section className='flex pb-8 pt-8 border-b border-gray-800' key={index}>
+                    <section className='flex pb-8 pt-8 border-b border-gray-800 gap-5' key={index}>
                         <figure className='w-10 h-10'>
                             <img className='w-full h-full rounded-full' src={item.UrlImgUser} alt="imgUser" />
                         </figure>

@@ -51,7 +51,7 @@ const SideBarMenuLg = () => {
     ];
 
     return (
-        <section className='hidden lg:w-[50%] lg:block lg:border-r-2 border-gray-800 bg-black px-5 h-screen sticky top-0'>
+        <section className='hidden lg:w-[25%] lg:block lg:border-r-2 border-gray-800 bg-black px-5 h-screen sticky top-0'>
             <div className="flex flex-col h-full">
                 <div className='pb-2'>
                     {optionMenu.map((item, index) => (
@@ -63,7 +63,7 @@ const SideBarMenuLg = () => {
                 </div>
                 <div>
                     <button className='w-[90%] rounded-full bg-blue-500 text-customWhite text-base py-2 px-16 font-medium'>Postear</button>
-                    <div className='flex justify-evenly items-center w-full pt-5 px-5 relative'>
+                    <div className='flex gap-3 items-center w-full pt-5 relative'>
                         <figure className='w-12 h-12'>
                             <img className='w-full h-full rounded-full' src="/src/assets/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
                         </figure>

@@ -11,7 +11,7 @@ import Publication from '../publication/Publication';
 
 const PostedForYou = () => {
     return (
-        <article className='lg:w-7/12 lg:px-2 bg-black'>
+        <article className='lg:w-full lg:px-2 bg-black'>
             <Publication />
             {data.map((item, index) => (
                 <article key={index}>
