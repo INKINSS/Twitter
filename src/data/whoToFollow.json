@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "AuronPlay",
+        "nick" : "@AuronPlay",
+        "urlImgProfile" : "/src/assets/img/profile/AuronProfile.webp",
+        "isFollow" : false
+    },
+    {
+        "name" : "elrubius",
+        "nick" : "@Rubiu5",
+        "urlImgProfile" : "/src/assets/img/profile/ElrubiusProfile.webp",
+        "isFollow" : false
+    },
+    {
+        "name" : "Elon Musk",
+        "nick" : "@ElonMusk",
+        "urlImgProfile" : "/src/assets/img/profile/ElonMuskProfile.webp",
+        "isFollow" : false
+    }
+]

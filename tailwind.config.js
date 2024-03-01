@@ -9,7 +9,7 @@ export default {
       colors: {
         customWhite: '#ffff',
         customWiteLight: '#ccc',
-        grayCustom: '#282828',
+        grayCustom: 'rgb(22, 24, 28)',
         grayHoverTendence: '#303030'
       },
       screens: {

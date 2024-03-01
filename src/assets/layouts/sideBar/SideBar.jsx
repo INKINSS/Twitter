@@ -2,6 +2,7 @@ import React from 'react'
 import InputSearch from '../../components/inputSearch/InputSearch'
 import Suscribe from '../../components/suscribe/Suscribe'
 import Tendence from '../../components/tendence/Tendence'
+import WhoToFollow from '../../components/whoToFollow/WhoToFollow'
 
 const SideBar = () => {
     return (
@@ -9,6 +10,7 @@ const SideBar = () => {
             <InputSearch />
             <Suscribe />
             <Tendence />
+            <WhoToFollow />
         </article>
     )
 }

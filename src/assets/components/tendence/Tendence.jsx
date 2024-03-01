@@ -6,12 +6,12 @@ import { GoKebabHorizontal } from "react-icons/go";
 const Tendence = () => {
     return (
         <article className='hidden lg:block mt-4 w-11/12' >
-            <Card bgColor={'#282828'} paddingBottom={'1em'}>
+            <Card bgColor={'rgb(22, 24, 28)'} paddingBottom={'1em'}>
                 <CardHeader paddingBottom={'0'}>
                     <Heading size='md' color={'#ffffff'}>Tendencias para Ti</Heading>
                 </CardHeader>
                 {data.map((item, index) => (
-                    <CardBody key={index} paddingBottom={'0'} _hover={{backgroundColor:'#303030'}} >
+                    <CardBody key={index} paddingBottom={'0'} transitionDuration={'.5s'} _hover={{backgroundColor:'#303030'}} >
                         <Stack divider={<StackDivider />} spacing='2'>
                             <Box>
                                 <Heading display={'flex'} justifyContent={'space-between'} fontSize={'.9em'} fontWeight={'200'} color={'#ccc'} size='xs'>
