@@ -27,7 +27,7 @@ const FooterMenu = () => {
 
 
     return (
-        <footer className={`flex fixed bottom-0 py-5 border-t-2 border-gray-800 bg-black w-full justify-between text-customWhite px-12 transition-all duration-500 ${!visible ? 'transform translate-y-full' : 'transform translate-y-0'}`}
+        <footer className={`flex fixed lg:hidden bottom-0 py-5 border-t-2 border-gray-800 bg-black w-full justify-between text-customWhite px-12 transition-all duration-500 ${!visible ? 'transform translate-y-full' : 'transform translate-y-0'}`}
         >
             <FloatButtonEdit />
             <GoHomeFill size={'2em'} />

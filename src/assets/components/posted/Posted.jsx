@@ -7,18 +7,20 @@ import { FaRegBookmark } from "react-icons/fa";
 import { IoShareSocialOutline } from "react-icons/io5";
 import { VscKebabVertical } from "react-icons/vsc";
 import data from '../../../data/data.json'
+import Publication from '../publication/Publication';
 
 const Posted = () => {
 
     return (
-        <article>
+        <article className=' lg:w-7/12 lg:px-2 bg-black'>
+            <Publication />
             {data.map((item, index) => (
                 <article key={index}>
-                    <section className='flex justify-around pb-8 pt-8 border-b border-gray-800' key={index}>
+                    <section className='flex pb-8 pt-8 border-b border-gray-800' key={index}>
                         <figure className='w-10 h-10'>
                             <img className='w-full h-full rounded-full' src={item.UrlImgUser} alt="imgUser" />
                         </figure>
-                        <div className='w-4/5 lg:w-3/5'>
+                        <div className='w-4/5 lg:w-full lg:px-5'>
                             <header className='flex items-center gap-1 relative'>
                                 <h3 className='font-bold text-sm text-customWhite'>{item.name}</h3>
                                 <span className='text-gray-400 text-sm font-normal'>{item.nick}</span>

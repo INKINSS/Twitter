@@ -16,7 +16,7 @@ const HeaderProfile = () => {
 
     return (
         <>
-            <header className='flex justify-between p-5'>
+            <header className='flex justify-between p-5 lg:hidden'>
                 <figure
                     className='w-8 h-8'
                     onClick={handleClick}
