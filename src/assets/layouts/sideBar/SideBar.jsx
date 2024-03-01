@@ -4,6 +4,7 @@ import Suscribe from '../../components/suscribe/Suscribe'
 import Tendence from '../../components/tendence/Tendence'
 import WhoToFollow from '../../components/whoToFollow/WhoToFollow'
 import UrlLinks from '../../components/urlLinks/UrlLinks'
+import BlockMessage from '../../components/blockMessage/BlockMessage'
 
 const SideBar = () => {
     return (
@@ -13,6 +14,7 @@ const SideBar = () => {
             <Tendence />
             <WhoToFollow />
             <UrlLinks />
+            <BlockMessage />
         </article>
     )
 }
