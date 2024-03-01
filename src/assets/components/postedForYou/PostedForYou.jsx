@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { TbMessageCircle } from "react-icons/tb";
 import { AiOutlineRetweet } from "react-icons/ai";
 import { FaRegHeart } from "react-icons/fa";
@@ -6,13 +6,12 @@ import { ImParagraphLeft } from "react-icons/im";
 import { FaRegBookmark } from "react-icons/fa";
 import { IoShareSocialOutline } from "react-icons/io5";
 import { VscKebabVertical } from "react-icons/vsc";
-import data from '../../../data/dataForYou.json'
+import data from '../../../data/dataFollow.json';
 import Publication from '../publication/Publication';
 
-const Posted = () => {
-
+const PostedForYou = () => {
     return (
-        <article className=' lg:w-7/12 lg:px-2 bg-black'>
+        <article className='lg:w-7/12 lg:px-2 bg-black'>
             <Publication />
             {data.map((item, index) => (
                 <article key={index}>
@@ -28,9 +27,14 @@ const Posted = () => {
                                 <VscKebabVertical className='text-gray-400 absolute right-0' />
                             </header>
                             <p className='text-customWhite text-base pb-5 pt-2'>{item.infoPost.comment}</p>
-                            <figure className='w-full h-auto'>
-                                <img className='w-full h-full rounded-xl' src={item.infoPost.urlPost} alt="imgPost" />
-                            </figure>
+                            {item.infoPost.urlPost.endsWith('.mp4') ? (
+                                <video className='w-full rounded-xl' controls autoPlay >
+                                    <source autoPlay src={item.infoPost.urlPost} type='video/mp4' />
+                                    Your browser does not support the video tag.
+                                </video>
+                            ) : (
+                                <img className='w-full h-auto rounded-xl' src={item.infoPost.urlPost} alt="imgPost" />
+                            )}
                             <footer className='pt-2'>
                                 <section className='flex w-full justify-between pt-3 text-gray-400'>
                                     <div className='flex items-center gap-1'>
@@ -60,10 +64,9 @@ const Posted = () => {
                         </div>
                     </section>
                 </article>
-
             ))}
         </article>
-    )
-}
+    );
+};
 
-export default Posted
+export default PostedForYou;
