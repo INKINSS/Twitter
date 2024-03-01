@@ -2,7 +2,7 @@
     {
         "name": "Miguel Ángel Durán",
         "nick": "@midudev",
-        "UrlImgUser" : "../../public/img/profile/MidudevProfile.webp",
+        "UrlImgUser" : "/public/img/profile/MidudevProfile.webp",
         "infoPost": {
             "timepost": "56min",
             "comment": "commpublicliza la calidad de tu código CSS Rendimiento, buenas prácticas y mantenibilidad Te dejo la página en el primer comentario ",
