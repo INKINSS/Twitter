@@ -18,7 +18,7 @@ const Posted = () => {
                 <article key={index}>
                     <section className='flex pb-8 pt-8 border-b border-gray-800 gap-5' key={index}>
                         <figure className='w-10 h-10'>
-                            <img className='w-full h-full rounded-full' src={item.UrlImgUser} alt="imgUser" />
+                            <img className='w-full h-full rounded-full' src={`${process.env.PUBLIC_URL}/${item.UrlImgUser}`} alt="imgUser" />
                         </figure>
                         <div className='w-4/5 lg:w-full lg:px-5'>
                             <header className='flex items-center gap-1 relative'>
@@ -29,7 +29,7 @@ const Posted = () => {
                             </header>
                             <p className='text-customWhite text-base pb-5 pt-2'>{item.infoPost.comment}</p>
                             <figure className='w-full h-auto'>
-                                <img className='w-full h-full rounded-xl' src={item.infoPost.urlPost} alt="imgPost" />
+                                <img className='w-full h-full rounded-xl' src={`${process.env.PUBLIC_URL}/${item.infoPost.urlPost}`} alt="imgPost" />
                             </figure>
                             <footer className='pt-2'>
                                 <section className='flex w-full justify-between pt-3 text-gray-400'>
