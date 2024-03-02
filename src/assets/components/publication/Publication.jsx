@@ -10,7 +10,7 @@ const Publication = () => {
     return (
         <section className='hidden lg:flex py-5 w-full border-b-2 border-gray-800'>
             <figure className='w-10 h-10'>
-                <img className='w-full h-full rounded-full' src="/src/assets/img/profile/profilePrincipal.webp" alt="imgPrincipal" />
+                <img className='w-full h-full rounded-full' src="../../../../public/img/profile/profilePrincipal.webp" alt="imgPrincipal" />
             </figure>
             <div className='flex flex-grow'>
                 <div className='flex flex-col w-full'>
