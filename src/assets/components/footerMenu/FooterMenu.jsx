@@ -30,11 +30,11 @@ const FooterMenu = () => {
         <footer className={`flex fixed lg:hidden bottom-0 py-5 border-t-2 border-gray-800 bg-black w-full justify-between text-customWhite px-12 transition-all duration-500 ${!visible ? 'transform translate-y-full' : 'transform translate-y-0'}`}
         >
             <FloatButtonEdit />
-            <GoHomeFill size={'2em'} />
-            <FaSearch size={'2em'} />
-            <HiOutlineUsers size={'2em'} />
-            <IoMdNotificationsOutline size={'2em'} />
-            <MdOutlineEmail size={'2em'} />
+            <GoHomeFill size={'1.2em'} />
+            <FaSearch size={'1.2em'} />
+            <HiOutlineUsers size={'1.2em'} />
+            <IoMdNotificationsOutline size={'1.2em'} />
+            <MdOutlineEmail size={'1.2em'} />
         </footer>
     )
 }
