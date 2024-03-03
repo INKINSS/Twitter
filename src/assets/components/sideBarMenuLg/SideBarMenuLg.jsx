@@ -65,7 +65,7 @@ const SideBarMenuLg = () => {
                     <button className='w-[90%] rounded-full bg-blue-500 text-customWhite text-base py-2 px-16 font-medium'>Postear</button>
                     <div className='flex gap-3 items-center w-full pt-5 relative'>
                         <figure className='w-12 h-12'>
-                            <img className='w-full h-full rounded-full' src="../../../../public/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
+                            <img className='w-full h-full rounded-full' src="/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
                         </figure>
                         <div className='flex-col'>
                             <h2 className='text-customWhite font-medium text-base pt-3'>Samuel Perez</h2>

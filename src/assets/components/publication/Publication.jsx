@@ -10,12 +10,12 @@ const Publication = () => {
     return (
         <section className='hidden lg:flex py-5 w-full border-b-2 border-gray-800'>
             <figure className='w-10 h-10'>
-                <img className='w-full h-full rounded-full' src="../../../../public/img/profile/profilePrincipal.webp" alt="imgPrincipal" />
+                <img className='w-full h-full rounded-full' src="/img/profile/profilePrincipal.webp" alt="imgPrincipal" />
             </figure>
             <div className='flex flex-grow'>
                 <div className='flex flex-col w-full'>
                     <div>
-                        <input className='w-full bg-black text-xl pl-4 outline-none text-gray-400' type="text" placeholder='¡¿Qué está pasando!?' />
+                        <input className='w-[90%] bg-black text-xl pl-4 pb-2 outline-none text-gray-400' type="text" placeholder='¡¿Qué está pasando!?' />
                     </div>
                     <div className='flex pt-2 items-center justify-between w-full px-5'>
                         <div className='flex gap-2'>

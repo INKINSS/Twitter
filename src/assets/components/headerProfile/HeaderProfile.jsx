@@ -22,7 +22,7 @@ const HeaderProfile = () => {
                     onClick={handleClick}
                     m={4}
                 >
-                    <img className='w-full h-full rounded-full' src="/src/assets/img/profile/profilePrincipal.webp" alt="imgProfile" />
+                    <img className='w-full h-full rounded-full' src="/img/profile/profilePrincipal.webp" alt="imgProfile" />
                 </figure>
                 <BsTwitterX size={'1.5em'} color='white' />
                 <TbSettings size={'1.5em'} color='white' />

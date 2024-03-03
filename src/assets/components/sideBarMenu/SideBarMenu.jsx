@@ -61,12 +61,12 @@ const SideBarMenu = () => {
             <section>
                 <div className='flex justify-between w-full'>
                     <figure className='w-8 h-8'>
-                        <img className='w-full h-full rounded-full' src="/src/assets/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
+                        <img className='w-full h-full rounded-full' src="/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
                     </figure>
                     <IoAddCircleOutline color='white' size={'1.7em'} />
                 </div>
-                <h2 className='text-customWhite font-medium text-xl pt-3'>Elizabeth Cheverria</h2>
-                <span className='text-gray-500'>@ElCheve_ria</span>
+                <h2 className='text-customWhite font-medium text-xl pt-3'>Samuel Perez</h2>
+                <span className='text-gray-500'>@Zs198_</span>
                 <div className='flex gap-5 pt-5'>
                     <p className='text-gray-500 text-ssm pl-2'><span className='text-customWhite font-medium pr-1 text-sm'>234</span>Siguiendo</p>
                     <p className='text-gray-500 text-ssm'><span className='text-customWhite font-medium pr-1 text-sm'>5354</span>Seguidores</p>

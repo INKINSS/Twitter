@@ -2,19 +2,19 @@
     {
         "name" : "AuronPlay",
         "nick" : "@AuronPlay",
-        "urlImgProfile" : "../../public/img/profile/AuronProfile.webp",
+        "urlImgProfile" : "/img/profile/AuronProfile.webp",
         "isFollow" : false
     },
     {
         "name" : "elrubius",
         "nick" : "@Rubiu5",
-        "urlImgProfile" : "../../public/img/profile/ElrubiusProfile.webp",
+        "urlImgProfile" : "/img/profile/ElrubiusProfile.webp",
         "isFollow" : false
     },
     {
         "name" : "Elon Musk",
         "nick" : "@ElonMusk",
-        "urlImgProfile" : "../../public/img/profile/ElonMuskProfile.webp",
+        "urlImgProfile" : "/img/profile/ElonMuskProfile.webp",
         "isFollow" : false
     }
 ]
