@@ -2,11 +2,19 @@
     {
         "name": "Miguel Ángel Durán",
         "nick": "@midudev",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/MidudevProfile.webp",
         "infoPost": {
             "timepost": "56min",
             "comment": "Analiza la calidad de tu código CSS Rendimiento, buenas prácticas y mantenibilidad Te dejo la página en el primer comentario ",
             "urlPost": "/img/postForYou/publicationMidu.mp4",
+=======
+        "UrlImgUser" : "/public/img/profile/MidudevProfile.webp",
+        "infoPost": {
+            "timepost": "56min",
+            "comment": "commpublicliza la calidad de tu código CSS Rendimiento, buenas prácticas y mantenibilidad Te dejo la página en el primer comentario ",
+            "urlPost": "/public/img/postForYou/publicationMidu.mp4",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 163,
             "numberShares": 325,
             "numberLikes": 653,
@@ -16,11 +24,19 @@
     {
         "name": "Dilo con Dibujos",
         "nick": "@dilocondibujos_",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/DibujoProfile.webp",
         "infoPost": {
             "timepost": "2h",
             "comment": "",
             "urlPost": "/img/postForYou/publicationDibujo.webp",
+=======
+        "UrlImgUser" : "/public/img/profile/DibujoProfile.webp",
+        "infoPost": {
+            "timepost": "2h",
+            "comment": "",
+            "urlPost": "/public/img/postForYou/publicationDibujo.webp",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 93,
             "numberShares": 12,
             "numberLikes": 209,
@@ -30,11 +46,19 @@
     {
         "name": "M e n s a j e s",
         "nick": "@Mensajero00",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/MensajeProfile.webp",
         "infoPost": {
             "timepost": "1d",
             "comment": "",
             "urlPost": "/img/postForYou/publicationMensaje.webp",
+=======
+        "UrlImgUser" : "/public/img/profile/MensajeProfile.webp",
+        "infoPost": {
+            "timepost": "1d",
+            "comment": "",
+            "urlPost": "/public/img/postForYou/publicationMensaje.webp",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 20,
             "numberShares": 13,
             "numberLikes": 198,
@@ -44,11 +68,19 @@
     {
         "name": "Miguel Ángel Durán",
         "nick": "@midudev",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/MidudevProfile.webp",
         "infoPost": {
             "timepost": "6h",
             "comment": "YA en Producción la Landing de LA VELADA. El 5 de Marzo desarrollamos la web final.",
             "urlPost": "/img/postForYou/publicationMidu2.mp4",
+=======
+        "UrlImgUser" : "/public/img/profile/MidudevProfile.webp",
+        "infoPost": {
+            "timepost": "6h",
+            "comment": "YA en Producción la Landing de LA VELADA. El 5 de Marzo desarrollamos la web final.",
+            "urlPost": "/public/img/postForYou/publicationMidu2.mp4",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 270,
             "numberShares": 96,
             "numberLikes": 784,
@@ -58,11 +90,19 @@
     {
         "name": "Miguel Ángel Durán",
         "nick": "@midudev",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/MidudevProfile.webp",
         "infoPost": {
             "timepost": "37min",
             "comment": "La vienvenida que he recibido en Japon es increible, si hay un país que quieras visitar debe de ser este sin duda alguna, tantas experiencias y gente amable a todo dar, espero volver el próximo año.",
             "urlPost": "/img/postForYou/publicationMidu3.mp4",
+=======
+        "UrlImgUser" : "/public/img/profile/MidudevProfile.webp",
+        "infoPost": {
+            "timepost": "37min",
+            "comment": "La vienvenida que he recibido en Japon es increible, si hay un país que quieras visitar debe de ser este sin duda alguna, tantas experiencias y gente amable a todo dar, espero volver el próximo año.",
+            "urlPost": "/public/img/postForYou/publicationMidu3.mp4",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 64,
             "numberShares": 11,
             "numberLikes": 1065,
@@ -72,11 +112,19 @@
     {
         "name": "Melisa de León",
         "nick": "@MelDeLeon",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/MelissaProfile.webp",
         "infoPost": {
             "timepost": "12min",
             "comment": "Las vistas que solo puedes encontrar si sales de la ciudad son inigualables, pasar un tiempo entre tu mismo y la naturaleza te hace pensar que la vida es un pequeño suspiro, un momento, una sola y nada más",
             "urlPost": "/img/postForYou/publicationMelissa.mp4",
+=======
+        "UrlImgUser" : "/public/img/profile/MelissaProfile.webp",
+        "infoPost": {
+            "timepost": "12min",
+            "comment": "Las vistas que solo puedes encontrar si sales de la ciudad son inigualables, pasar un tiempo entre tu mismo y la naturaleza te hace pensar que la vida es un pequeño suspiro, un momento, una sola y nada más",
+            "urlPost": "/public/img/postForYou/publicationMelissa.mp4",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 103,
             "numberShares": 43,
             "numberLikes": 2067,
@@ -86,11 +134,19 @@
     {
         "name": "LVP",
         "nick": "@LVPes",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/LvpProfile.webp",
         "infoPost": {
             "timepost": "45min",
             "comment": "En 1 hora arranca la novena jornada de Superliga Segunda. Este es el menú del día y lo podrás seguir dónde siempre, en Twitch.",
             "urlPost": "/img/postForYou/publicationLvp.webp",
+=======
+        "UrlImgUser" : "/public/img/profile/LvpProfile.webp",
+        "infoPost": {
+            "timepost": "45min",
+            "comment": "En 1 hora arranca la novena jornada de Superliga Segunda. Este es el menú del día y lo podrás seguir dónde siempre, en Twitch.",
+            "urlPost": "/public/img/postForYou/publicationLvp.webp",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 103,
             "numberShares": 212,
             "numberLikes": 119,
@@ -100,11 +156,19 @@
     {
         "name": "Miguel Ángel Durán",
         "nick": "@midudev",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/MidudevProfile.webp",
         "infoPost": {
             "timepost": "4d",
             "comment": "Que emoción es ir de regreso a mi país y aún mas poder viajar junto con mi familia, una semana inolvidable en Camerún, todos los recuerdos y buenos momentos los llevo conmigo.",
             "urlPost": "/img//postForYou/publicationMidu3.mp4",
+=======
+        "UrlImgUser" : "/public/img/profile/MidudevProfile.webp",
+        "infoPost": {
+            "timepost": "4d",
+            "comment": "Que emoción es ir de regreso a mi país y aún mas poder viajar junto con mi familia, una semana inolvidable en Camerún, todos los recuerdos y buenos momentos los llevo conmigo.",
+            "urlPost": "/public/img//postForYou/publicationMidu3.mp4",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 39,
             "numberShares": 459,
             "numberLikes": 196,
@@ -114,11 +178,19 @@
     {
         "name": "Dilo con Dibujos",
         "nick": "@dilocondibujos_",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/DibujoProfile.webp",
         "infoPost": {
             "timepost": "12min",
             "comment": "nunca cambies...",
             "urlPost": "/img/postForYou/publicationDibujo2.webp",
+=======
+        "UrlImgUser" : "/public/img/profile/DibujoProfile.webp",
+        "infoPost": {
+            "timepost": "12min",
+            "comment": "nunca cambies...",
+            "urlPost": "/public/img/postForYou/publicationDibujo2.webp",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 19,
             "numberShares": 43,
             "numberLikes": 32,
@@ -128,11 +200,19 @@
     {
         "name": "Dilo con Dibujos",
         "nick": "@dilocondibujos_",
+<<<<<<< HEAD
         "UrlImgUser" : "/img/profile/DibujoProfile.webp",
         "infoPost": {
             "timepost": "14min",
             "comment": "Una caminata por la playa de San Felipe ayuda a relajarte y concentrarte que no solo estamos para convivir con las demás personas, sino también para pasar tiempo con nosotros mismo, recordar quienes somos y qué queremos ser en esta corta vida.",
             "urlPost": "/img/postForYou/publicationDibujo3.webp",
+=======
+        "UrlImgUser" : "/public/img/profile/DibujoProfile.webp",
+        "infoPost": {
+            "timepost": "14min",
+            "comment": "Una caminata por la playa de San Felipe ayuda a relajarte y concentrarte que no solo estamos para convivir con las demás personas, sino también para pasar tiempo con nosotros mismo, recordar quienes somos y qué queremos ser en esta corta vida.",
+            "urlPost": "/public/img/postForYou/publicationDibujo3.webp",
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
             "numberComments": 171,
             "numberShares": 13,
             "numberLikes": 742,

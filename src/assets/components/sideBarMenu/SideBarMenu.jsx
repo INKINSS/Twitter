@@ -61,7 +61,11 @@ const SideBarMenu = () => {
             <section>
                 <div className='flex justify-between w-full'>
                     <figure className='w-8 h-8'>
+<<<<<<< HEAD
                         <img className='w-full h-full rounded-full' src="/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
+=======
+                        <img className='w-full h-full rounded-full' src="/public/img/profile/profilePrincipal.webp" alt="imgProfilePrincipal" />
+>>>>>>> 55eeccde4d91944612b36ed03d75ee2f83374c07
                     </figure>
                     <IoAddCircleOutline color='white' size={'1.7em'} />
                 </div>
