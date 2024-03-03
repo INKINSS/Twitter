@@ -13,7 +13,6 @@ const BlockMessage = () => {
                     <MdOutlineKeyboardDoubleArrowUp color='white' size={'1.5em'} />
                 </div>
             </div>
-k
         </section>
 
     )
